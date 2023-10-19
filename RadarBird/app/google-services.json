@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134303667501",
+    "project_id": "radarbird-c4713",
+    "storage_bucket": "radarbird-c4713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134303667501:android:cd613aced19553c9adafa4",
+        "android_client_info": {
+          "package_name": "com.example.radarbird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSP6-btQapsozk-NFGlSBD_SKNe2IoOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
